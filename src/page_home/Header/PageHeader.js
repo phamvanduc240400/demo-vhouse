@@ -165,7 +165,6 @@ export default class PageHeader extends Component {
             </div>
           </div>
         </div>
-        <div style={{width:'100%',height:'2000px',backgroundColor:'#000'}}></div>
       </>
     )
   }
