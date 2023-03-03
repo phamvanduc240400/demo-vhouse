@@ -1,0 +1,30 @@
+.header1{
+    width: 100%;
+    height: 70px;
+}
+.header1_1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    width: 20%;
+    height: 100%;
+}
+.search{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    
+}
+.search_flex{
+    width: 80%;
+    height: 50%;
+    display: flex;
+}
