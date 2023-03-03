@@ -1,1 +1,16 @@
-
+a{
+    text-decoration: none;
+}
+p{
+    margin: 0;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
